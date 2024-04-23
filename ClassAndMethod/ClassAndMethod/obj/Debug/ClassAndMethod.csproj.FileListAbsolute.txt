@@ -1,0 +1,6 @@
+C:\Users\Никита\Documents\BDKolledz\ClassAndMethod\ClassAndMethod\bin\Debug\ClassAndMethod.exe
+C:\Users\Никита\Documents\BDKolledz\ClassAndMethod\ClassAndMethod\bin\Debug\ClassAndMethod.pdb
+C:\Users\Никита\Documents\BDKolledz\ClassAndMethod\ClassAndMethod\obj\Debug\ClassAndMethod.csproj.AssemblyReference.cache
+C:\Users\Никита\Documents\BDKolledz\ClassAndMethod\ClassAndMethod\obj\Debug\ClassAndMethod.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Documents\BDKolledz\ClassAndMethod\ClassAndMethod\obj\Debug\ClassAndMethod.exe
+C:\Users\Никита\Documents\BDKolledz\ClassAndMethod\ClassAndMethod\obj\Debug\ClassAndMethod.pdb
