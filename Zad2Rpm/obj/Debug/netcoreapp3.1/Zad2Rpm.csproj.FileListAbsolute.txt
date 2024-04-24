@@ -1,0 +1,14 @@
+C:\Users\student\Documents\Кузнецов В.-Дергунов Н\C#\Zad2Rpm\bin\Debug\netcoreapp3.1\Zad2Rpm.exe
+C:\Users\student\Documents\Кузнецов В.-Дергунов Н\C#\Zad2Rpm\bin\Debug\netcoreapp3.1\Zad2Rpm.deps.json
+C:\Users\student\Documents\Кузнецов В.-Дергунов Н\C#\Zad2Rpm\bin\Debug\netcoreapp3.1\Zad2Rpm.runtimeconfig.json
+C:\Users\student\Documents\Кузнецов В.-Дергунов Н\C#\Zad2Rpm\bin\Debug\netcoreapp3.1\Zad2Rpm.runtimeconfig.dev.json
+C:\Users\student\Documents\Кузнецов В.-Дергунов Н\C#\Zad2Rpm\bin\Debug\netcoreapp3.1\Zad2Rpm.dll
+C:\Users\student\Documents\Кузнецов В.-Дергунов Н\C#\Zad2Rpm\bin\Debug\netcoreapp3.1\Zad2Rpm.pdb
+C:\Users\student\Documents\Кузнецов В.-Дергунов Н\C#\Zad2Rpm\obj\Debug\netcoreapp3.1\Zad2Rpm.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Кузнецов В.-Дергунов Н\C#\Zad2Rpm\obj\Debug\netcoreapp3.1\Zad2Rpm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\Кузнецов В.-Дергунов Н\C#\Zad2Rpm\obj\Debug\netcoreapp3.1\Zad2Rpm.AssemblyInfoInputs.cache
+C:\Users\student\Documents\Кузнецов В.-Дергунов Н\C#\Zad2Rpm\obj\Debug\netcoreapp3.1\Zad2Rpm.AssemblyInfo.cs
+C:\Users\student\Documents\Кузнецов В.-Дергунов Н\C#\Zad2Rpm\obj\Debug\netcoreapp3.1\Zad2Rpm.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Кузнецов В.-Дергунов Н\C#\Zad2Rpm\obj\Debug\netcoreapp3.1\Zad2Rpm.dll
+C:\Users\student\Documents\Кузнецов В.-Дергунов Н\C#\Zad2Rpm\obj\Debug\netcoreapp3.1\Zad2Rpm.pdb
+C:\Users\student\Documents\Кузнецов В.-Дергунов Н\C#\Zad2Rpm\obj\Debug\netcoreapp3.1\Zad2Rpm.genruntimeconfig.cache
